@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timezone
 
-NOTION_TOKEN = "ntn_rH7725048958OuqPA8JyHnBa39nxix9XFX7P0v8RSY80TA"
+NOTION_TOKEN = "ntn_Fa7725048959YKXe513xFsNuyA4atXrYPlbwOhAEpLpcAz"
 DB_ID = "26802e0b7d3f8084bb29e9f61fd411bd"
 
 headers = {
